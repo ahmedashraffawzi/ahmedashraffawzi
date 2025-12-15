@@ -9,14 +9,13 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A Detail-oriented Data Analyst from Egypt</h3>
-<img align="right" width="400" src="	https://c0.wallpaperflare.com/preview/955/243/716/analysis-business-hand-charts.jpg" />
+<img align="right" src="https://c0.wallpaperflare.com/preview/955/243/716/analysis-business-hand-charts.jpg" alt="Coding" />
+
 
 - 💬 Ask me about **Data Analysis **
 
 - 📫 How to reach me **ahmed.ashraf.1@outlook.com**
 
 <h3 align="left">Connect with me: +(20) 1013893864</h3>
-
-
 
 
