@@ -1,47 +1,34 @@
-
 <div align="center">
   https://www.linkedin.com/in/ahmed-ashraf-b96a132b1/
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoe
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A Detail-oriented Data Analyst from Egypt</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"reach me: **ahmed.ashraf.1@outlook.com**
-- 📞 Connect with me: **+(20) 1013893864**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUgg- 💬 Ask me about **Data Analysis, Power BI, Python, SQL**
+- 📫 Reach me at: **ahmed.ashraf.1@outlook.com**
+- 📞 Phone: **+(20) 1013893864**
 
 ---
 
 ### 🛠 Tools & Technologies:
 <p align="left">
-  <!-- Python -->
-  <a href="https://www.python-- Pandas -->
-  https://pandas.pydata.org/
-    https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrerple-icons/simple-icons/develop/icons/numpy.svg
-  </a>
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" targetad.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg
-  </a>
-  <!-- Tableau -->
-  https://www.tableau.com/
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="//www.microsoft.com/en-us/microsoft-365/excel
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013-logo.svg" alt="Excel" width="40" height="40m/
-    https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
-  </a>
-  <!-- Jupyter -->
-  <a href="https://jupyter.org/" targetgithubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="s://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColorimg src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BIshields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColorimg src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="s://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=whitec="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=
 
 ---
 
 ### 📊 Featured Skills:
--Py, Matplotlib, Seaborn
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Visualization (Power BI, Tableau)
+- SQL for Data Analysis
+- Excel Advanced Functions
 
 ---
 
 ### 🔗 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/ahmed-ash
+- [LinkedIn](https://www.linkedin.com/inlook.com**
 - Phone: **+(20) 1013893864**
+``
+
