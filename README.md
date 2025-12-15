@@ -8,14 +8,13 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">A Passionate Backend Developer from Egypt</h3>
+<h3 align="center">A Detail-oriented Data Analyst from Egypt</h3>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **.Net**
 
-- 💬 Ask me about **Asp.Net **
+- 💬 Ask me about **Data Analysis **
 
-- 📫 How to reach me **dev.ahmedashraf1@gmail.com**
+- 📫 How to reach me **ahmed.ashraf.1@outlook.com**
 
 <h3 align="left">Connect with me: +(20) 1013893864</h3>
 
