@@ -1,34 +1,33 @@
+
 <div align="center">
-  https://www.linkedin.com/in/ahmed-ashraf-b96a132b1/
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoe
+  <a href="https://www.linkedin.com/in/ahmed-ashraf-b96a132b1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
+###
+
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A Detail-oriented Data Analyst from Egypt</h3>
+<img align="right" alt"Coding" width="400" src="">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUgg- 💬 Ask me about **Data Analysis, Power BI, Python, SQL**
-- 📫 Reach me at: **ahmed.ashraf.1@outlook.com**
-- 📞 Phone: **+(20) 1013893864**
 
----
+- 💬 Ask me about **Data Analysis **
 
-### 🛠 Tools & Technologies:
+- 📫 How to reach me **ahmed.ashraf.1@outlook.com**
+
+<h3 align="left">Connect with me: +(20) 1013893864</h3>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="s://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColorimg src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BIshields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColorimg src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="s://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=whitec="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=
+  
+</p>
 
----
-
-### 📊 Featured Skills:
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Data Visualization (Power BI, Tableau)
-- SQL for Data Analysis
-- Excel Advanced Functions
-
----
-
-### 🔗 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/inlook.com**
-- Phone: **+(20) 1013893864**
-``
+<h3 align="left"> Tools and Technologies :</h3>
+<p align="left">
+  <!-- Python -->
+  <a href/www.python.org
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="ref="https://pandas.pydata.org/" target="_blankw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="Pandas" width="40" height//numpy.org/" target="_://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" alt="NumPy" width="40" height="40//powerbi.microsoft.com/" target="_blank" rel="noreferrerg/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="www.tableau <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="ww.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer.com/logos/microsoft-excel-2013-logo.svg" alt="Excel" width="f="https://www.mysql.com/" target="_blank" rel="noreferrericons/devicon/master/icons/mysql/mysql-original-wordmark.svg
+  </a>
+  <!-- Jupyter -->
+  <a href="https://jupyter.org/" targettps://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40
 
