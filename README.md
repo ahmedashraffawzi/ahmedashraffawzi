@@ -9,9 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A Detail-oriented Data Analyst from Egypt</h3>
-<img align="right" alt"Coding" width="400" src="https://www.wallpaperflare.com/photo-illustration-of-hand-holding-mobile-device-displaying-business-charts-and-graphs-analytics-and-performance-wallpaper-aaapu"/>
-
-
+<img align="right" alt"Coding" width="400" src="	https://c0.wallpaperflare.com/preview/955/243/716/analysis-business-hand-charts.jpg" />
 - 💬 Ask me about **Data Analysis **
 
 - 📫 How to reach me **ahmed.ashraf.1@outlook.com**
