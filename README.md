@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A Detail-oriented Data Analyst from Egypt</h3>
-<img align="right" alt"Coding" width="400" src="">
+<img align="right" alt"Coding" width="400" src="https://www.wallpaperflare.com/photo-illustration-of-hand-holding-mobile-device-displaying-business-charts-and-graphs-analytics-and-performance-wallpaper-aaapu"/>
 
 
 - 💬 Ask me about **Data Analysis **
@@ -18,24 +18,6 @@
 
 <h3 align="left">Connect with me: +(20) 1013893864</h3>
 
-<p align="left">
-  
-</p>
-<h3 align="left"> Tools and Language:</h3>
-<p align="left">   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>   
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"      alt="mysql" width="40" height="40"/> </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
-
-  <!-- Excel -->
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft3-logo.svg alt="Excel"width="40" height="40"/>
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI alt="Power Bi"width="40" height="40"/>
-  <!-- Tableau -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg alt="Tableau" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg alt="Jupyter Notebook" width="40" height="40"/>
 
 
-</p>
 
